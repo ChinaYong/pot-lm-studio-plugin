@@ -1,0 +1,33 @@
+{
+  "id": "plugin.com.pot-app.lmstudio",
+  "plugin_type": "recognize",
+  "icon": "icon.png",
+  "display": "LM Studio OCR",
+  "homepage": "https://github.com/pot-app/pot-app-recognize-plugin-template",
+  "needs": [
+    { "key": "endpoint", "display": "API Endpoint", "type": "input" },
+    { "key": "model", "display": "Model Name", "type": "input" },
+    { "key": "prompt", "display": "System Prompt", "type": "input" }
+  ],
+  "language": {
+    "auto": "auto",
+    "zh_cn": "Chinese",
+    "zh_tw": "Traditional Chinese",
+    "en": "English",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "fr": "French",
+    "es": "Spanish",
+    "ru": "Russian",
+    "de": "German",
+    "it": "Italian",
+    "tr": "Turkish",
+    "pt_pt": "Portuguese",
+    "pt_br": "Portuguese",
+    "vi": "Vietnamese",
+    "th": "Thai",
+    "ar": "Arabic",
+    "hi": "Hindi",
+    "fa": "Persian"
+  }
+}

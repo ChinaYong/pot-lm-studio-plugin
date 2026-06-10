@@ -1,0 +1,1 @@
+此项目基于 `https://github.com/pot-app/pot-app-recognize-plugin-template.git` 开发，旨在让 LM Studio 的本地模型在 Pot Translator 翻译工具提供 OCR 识别。
